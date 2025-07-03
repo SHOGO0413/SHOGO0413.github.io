@@ -8,7 +8,7 @@
       <link href="/2025/07/03/%E7%94%BB%E5%83%8F/"/>
       <url>/2025/07/03/%E7%94%BB%E5%83%8F/</url>
       
-        <content type="html"><![CDATA[<p>画像の挿入サンプル<br><a href="pictures/1.png"></a></p>]]></content>
+        <content type="html"><![CDATA[<p>画像の挿入サンプル<br><img src="/pictures/1.png"></p>]]></content>
       
       
       
