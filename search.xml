@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>記事の投稿方法</title>
+      <link href="/2025/07/14/%E8%A8%98%E4%BA%8B%E3%81%AE%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95/"/>
+      <url>/2025/07/14/%E8%A8%98%E4%BA%8B%E3%81%AE%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="記事の作成"><a href="#記事の作成" class="headerlink" title="記事の作成"></a>記事の作成</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new &quot;記事名&quot;</span><br></pre></td></tr></table></figure><h2 id="静的ファイルの作成"><a href="#静的ファイルの作成" class="headerlink" title="静的ファイルの作成"></a>静的ファイルの作成</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><h2 id="ローカルでの確認"><a href="#ローカルでの確認" class="headerlink" title="ローカルでの確認"></a>ローカルでの確認</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><h2 id="デプロイ"><a href="#デプロイ" class="headerlink" title="デプロイ"></a>デプロイ</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>画像</title>
       <link href="/2025/07/03/%E7%94%BB%E5%83%8F/"/>
       <url>/2025/07/03/%E7%94%BB%E5%83%8F/</url>
